@@ -39,8 +39,14 @@ font-size: 20px;
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.mabordure{
+
+.mabordure {
+    padding: 30px;
+    background-color: indigo;
     border: solid red;
-    border-top: 3px #EB5353 double;
-    
+    border: 25px #EB5353 solid;
+    border-right: 20px #eb5398 solid;
+    border-bottom: 25px goldenrod solid;
+    border-left: 5px yellowgreen solid;
+    border-radius: 10px 10px 10px 10px 10px;
 }
