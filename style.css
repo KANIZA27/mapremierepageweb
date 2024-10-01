@@ -3,9 +3,44 @@ h1{
 }
 
 h4{
-    color:black
+    color:blueviolet
+    font-size: 1em
 }
 
 p{
     color:brown
+}
+/*
+teachings and seafood
+*/
+
+p{
+    color: purple;
+    background-color: orange;  
+    font-family: 'Courier New', Courier, monospace;   
+}
+
+    
+/* color for maclasse */
+.maclasse{
+    color: crimson;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-align: center;
+    text-align: left;
+    text-align: right;
+    text-align: justify
+ }   
+#Ensigenement{
+font-size: 20px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mabordure{
+    border: solid red;
+    border-top: 3px #EB5353 double;
+    
 }
