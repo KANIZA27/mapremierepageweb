@@ -40,6 +40,27 @@ p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+h1{
+    font-size: 3.5em;
+    color:#a5b4fc ;
+    font-family: Montserrat;
+}
+p{
+    font-size: 1.1em;
+    font-family:Manrope;
+    color: magenta;
+    font-size: 20px;
+    padding-left: 60px;
+    padding-left: 20px;
+    font-weight: bold;
+
+}
+li{
+    font-size: 1em;
+    font-family: manrope;
+    color: forestgreen;
+}
+
 .mabordure {
     padding: 30px;
     background-color: indigo;
