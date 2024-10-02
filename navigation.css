@@ -1,0 +1,18 @@
+nav{
+border: 5px solid #000000;
+border-radius: 50% 50%;
+background-color:blueviolet;
+font-size: large;
+font-weight: bold;
+}
+
+.menu li{
+    display: inline-block;
+    padding-inline: 100px;
+
+}
+
+a{
+    color: black;
+    text-decoration: underline;
+}

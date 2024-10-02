@@ -1,5 +1,16 @@
-.maclasse{
-    font-size: 3.5em;
-    font-family: Montserrat;
-    color: #A5B4FC;
+h1 {
+    font-size: 20px;
+    font-family: Montserrat sans-serif;
+    text-align: center;
+    border: solid skyblue; 
 }
+
+h2 {
+    font-size: 15px;
+    font-weight: bolder;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.monprojet { font-size: 50px;}
+.portfolio { font-size: 50px;}
+
