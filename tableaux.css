@@ -5,7 +5,10 @@ table{
 }
 
 
-td{
+td, th {
     border: 1px solid black;
     color: blueviolet;
+}
+th {
+    background-color: chartreuse;
 }
